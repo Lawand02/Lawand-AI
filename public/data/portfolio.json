@@ -1,0 +1,149 @@
+{
+  "personal": {
+    "name": "Lawand Yousef",
+    "title": "Hardware & Software Engineer",
+    "organization": "Acornassociated",
+    "description": "Engineering and Logistics NGO",
+    "location": "Qamishli, Syria",
+    "phone": "+963-951-641-501",
+    "bio": "Hardware & Software Engineer for Acornassociated organization, specializing in FPGA design, CPU architecture, embedded systems, and full-stack web development."
+  },
+  "languages": [
+    {"name": "Kurdish", "proficiency": "Native"},
+    {"name": "Arabic", "proficiency": "Excellent"},
+    {"name": "English", "proficiency": "Very Good"}
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming Language",
+      "level": 85,
+      "details": "Good experience with PyQt, Tkinter, Face recognition, Sound recognition, Google translate"
+    },
+    {
+      "name": "OpenCV",
+      "category": "Computer Vision",
+      "level": 80,
+      "details": "Computer Vision research and implementation"
+    },
+    {
+      "name": "PHP",
+      "category": "Programming Language",
+      "level": 90,
+      "details": "Strong and effective language for web applications"
+    },
+    {
+      "name": "Laravel",
+      "category": "PHP Framework",
+      "level": 88,
+      "details": "Multiple project implementations (websites, applications)"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "CSS Framework",
+      "level": 85,
+      "details": "Utility-first CSS framework for rapid development"
+    },
+    {
+      "name": "PCB Design",
+      "category": "Hardware Engineering",
+      "level": 85,
+      "details": "Professional PCB design using Altium Designer with multi-layer boards and circuit analysis"
+    },
+    {
+      "name": "FPGA",
+      "category": "Hardware Engineering",
+      "level": 85,
+      "details": "FPGA development for image processing and digital signal processing applications"
+    },
+    {
+      "name": "Computer Architecture",
+      "category": "Hardware Engineering",
+      "level": 95,
+      "details": "Expert in CPU design, pipelining, hazard handling, and RISC-V architecture"
+    },
+    {
+      "name": "VHDL",
+      "category": "Hardware Description Language",
+      "level": 85,
+      "details": "Advanced VHDL for CPU design, image processing, and synthesizable hardware implementations"
+    },
+    {
+      "name": "Digital Logic Design",
+      "category": "Hardware Engineering",
+      "level": 85,
+      "details": "Complex digital systems design with state machines and control unit implementations"
+    },
+    {
+      "name": "Embedded Systems",
+      "category": "Hardware/Software Integration",
+      "level": 95,
+      "details": "Expert in embedded system design, microcontroller programming, and hardware-software co-design"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spider Robot",
+      "category": "Robotics",
+      "description": "Early team project focused on terminal robot understanding",
+      "technologies": ["Robotics", "Automation", "Team Collaboration"],
+      "image": "/images/spider_robot.png"
+    },
+    {
+      "name": "Hexapod Robot",
+      "category": "Robotics",
+      "description": "Complex graduation project with walking algorithm implementation",
+      "technologies": ["Algorithm Design", "Robotics", "Walking Simulation"],
+      "image": "/images/hexapod_robot.png"
+    },
+    {
+      "name": "School Management System",
+      "category": "Web Development",
+      "description": "Software program using Laravel framework",
+      "technologies": ["Laravel", "PHP", "Database Design"],
+      "image": "/images/school_management_system.png"
+    },
+    {
+      "name": "RV32I-Pipelined-CPU",
+      "category": "Hardware Design",
+      "description": "Professional-grade 5-stage pipelined 32-bit RISC-V processor implemented in 100% VHDL with complete hazard handling and synthesizable design",
+      "technologies": ["VHDL", "RISC-V", "Computer Architecture", "Digital Logic Design"],
+      "github": "RV32I-Pipelined-CPU",
+      "image": "/images/rv32i_cpu_pipeline.png"
+    },
+    {
+      "name": "Altium PCB Projects",
+      "category": "PCB Engineering",
+      "description": "Complete PCB designs using professional Altium Designer: IR sensor module with obstacle detection and Sound Detection PCB with audio processing circuitry",
+      "technologies": ["Altium Designer", "PCB Design", "Circuit Design", "Embedded Systems"],
+      "github": "Altium-Projects",
+      "image": "/images/altium_pcb_3d.png"
+    },
+    {
+      "name": "NeighborhoodImageProcessing",
+      "category": "Hardware/Software Co-design",
+      "description": "Advanced VHDL-based hardware-accelerated image processing system for FPGA implementation with neighborhood operations, convolution kernels, and real-time processing",
+      "technologies": ["VHDL", "FPGA", "Image Processing", "Computer Architecture"],
+      "github": "NeighborhoodImageProcessing",
+      "image": "/images/neighborhood_processing.png"
+    }
+  ],
+  "experience_areas": [
+    {
+      "title": "Hardware Engineering",
+      "description": "FPGA design, CPU architecture, PCB engineering, and embedded systems"
+    },
+    {
+      "title": "Web Development",
+      "description": "Proficient in multiple languages and frameworks"
+    },
+    {
+      "title": "Robotics", 
+      "description": "Automation and reality simulation"
+    },
+    {
+      "title": "Digital Design",
+      "description": "VHDL, computer architecture, and hardware-software co-design"
+    }
+  ]
+}
