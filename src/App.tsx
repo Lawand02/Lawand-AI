@@ -15,7 +15,7 @@ function App() {
 
   useEffect(() => {
     // Load portfolio data
-    fetch('/data/portfolio.json')
+    fetch(`${import.meta.env.BASE_URL}data/portfolio.json`)
       .then(response => response.json())
       .then(data => setPortfolioData(data))
       .catch(error => console.error('Error loading portfolio data:', error));

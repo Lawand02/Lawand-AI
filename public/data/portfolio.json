@@ -87,21 +87,21 @@
       "category": "Robotics",
       "description": "Early team project focused on terminal robot understanding",
       "technologies": ["Robotics", "Automation", "Team Collaboration"],
-      "image": "/images/spider_robot.png"
+      "image": "images/spider_robot.png"
     },
     {
       "name": "Hexapod Robot",
       "category": "Robotics",
       "description": "Complex graduation project with walking algorithm implementation",
       "technologies": ["Algorithm Design", "Robotics", "Walking Simulation"],
-      "image": "/images/hexapod_robot.png"
+      "image": "images/hexapod_robot.png"
     },
     {
       "name": "School Management System",
       "category": "Web Development",
       "description": "Software program using Laravel framework",
       "technologies": ["Laravel", "PHP", "Database Design"],
-      "image": "/images/school_management_system.png"
+      "image": "images/school_management_system.png"
     },
     {
       "name": "RV32I-Pipelined-CPU",
@@ -109,7 +109,7 @@
       "description": "Professional-grade 5-stage pipelined 32-bit RISC-V processor implemented in 100% VHDL with complete hazard handling and synthesizable design",
       "technologies": ["VHDL", "RISC-V", "Computer Architecture", "Digital Logic Design"],
       "github": "RV32I-Pipelined-CPU",
-      "image": "/images/rv32i_cpu_pipeline.png"
+      "image": "images/rv32i_cpu_pipeline.png"
     },
     {
       "name": "Altium PCB Projects",
@@ -117,7 +117,7 @@
       "description": "Complete PCB designs using professional Altium Designer: IR sensor module with obstacle detection and Sound Detection PCB with audio processing circuitry",
       "technologies": ["Altium Designer", "PCB Design", "Circuit Design", "Embedded Systems"],
       "github": "Altium-Projects",
-      "image": "/images/altium_pcb_3d.png"
+      "image": "images/altium_pcb_3d.png"
     },
     {
       "name": "NeighborhoodImageProcessing",
@@ -125,7 +125,7 @@
       "description": "Advanced VHDL-based hardware-accelerated image processing system for FPGA implementation with neighborhood operations, convolution kernels, and real-time processing",
       "technologies": ["VHDL", "FPGA", "Image Processing", "Computer Architecture"],
       "github": "NeighborhoodImageProcessing",
-      "image": "/images/neighborhood_processing.png"
+      "image": "images/neighborhood_processing.png"
     }
   ],
   "experience_areas": [
